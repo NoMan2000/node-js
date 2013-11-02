@@ -1,0 +1,17 @@
+{
+  "name": "responsive-test",
+  "version": "0.0.1",
+  "description": "Testing Node.js and resposnive design",
+  "repository": "",
+  "author": "Michael Soileau <webart.video@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch":"~0.5.3",
+    "grunt-contrib-compass":"~0.5.0",
+    "grunt-contrib-uglify":"~0.2.2",
+    "matchdep":"~0.1.2"
+  }
+}

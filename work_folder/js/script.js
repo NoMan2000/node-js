@@ -1,0 +1,1 @@
+function test(){return console.log("This would work?"),"Hello!"}
